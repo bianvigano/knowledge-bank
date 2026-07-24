@@ -11,7 +11,7 @@ Semua wiki dipindahkan ke GitHub. Klik link untuk lihat raw markdown.
 - [docker/overview](https://raw.githubusercontent.com/bianvigano/hermes-vault/main/wiki/docker/overview.md) — Wiki Docker: arsitektur, images, containers, compose, networking (17 pages)
 - [lxc/overview](https://raw.githubusercontent.com/bianvigano/hermes-vault/main/wiki/lxc/overview.md) — Wiki LXC: arsitektur, container lifecycle, networking, storage, security (10 pages)
 - [systemd/overview](https://raw.githubusercontent.com/bianvigano/hermes-vault/main/wiki/systemd/overview.md) — Wiki Systemd: units, service files, timers, journalctl, boot (7 pages)
-- [ncdu/overview](https://raw.githubusercontent.com/bianvigano/hermes-vault/main/wiki/ncdu/overview.md) — Wiki Ncdu: overview, install, usage, commands, export/import, alternatives (6 pages)
+- [ncdu/overview](https://raw.githubusercontent.com/bianvigano/hermes-vault/main/wiki/ncdu/overview.md) — Wiki Ncdu: overview, install, usage, commands, export/import, alternatives, rewrite, JSON/binary format, performance (10 pages)
 
 ### Pages (root)
 
