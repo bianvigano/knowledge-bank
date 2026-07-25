@@ -4,6 +4,7 @@ Archived memory & user-profile entries from Hermes memory system.
 
 | Date | Source | Summary | Tags | File |
 |------|--------|---------|------|------|
+|| 2026-07-22 | memory | vault-graph duplicates archive | vault-graph,duplicate,archive | 2026-07-22-vault-graph-duplicates-archive.md |
 || 2026-07-21 | memory | Project senyawa-no-nexo — Paper plugin nyawa system | project,archive | 2026-07-21-project-senyawa-no-nexo.md |
 || 2026-07-21 | memory | Alias CLI tools — ~/.bash_aliases vs symlinks | alias,cli,archive | 2026-07-21-alias-cli-tools.md |
 || 2026-07-21 | memory | buildjar skill — skill_manage mismatch bug | skill,bug,archive | 2026-07-21-buildjar-skill-skillmanage-mismatch.md |

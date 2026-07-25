@@ -50,3 +50,8 @@ github:
 ## Catatan
 
 Vault ini adalah knowledge base pribadi. Gunakan skill `vault-smart-query` untuk query sebelum menjawab pertanyaan teknis.
+
+## Vault Knowledge Graph
+Query: `vault-graph search <term>`, `vault-graph explain <node>`
+Graph: vault-out/graph.json (274 nodes, 206 edges)
+CLI from anywhere. Build: `vault-graph build`
