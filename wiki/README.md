@@ -12,6 +12,7 @@ Semua wiki dipindahkan ke GitHub. Klik link untuk lihat raw markdown.
 - [lxc/overview](https://raw.githubusercontent.com/bianvigano/hermes-vault/main/wiki/lxc/overview.md) — Wiki LXC: arsitektur, container lifecycle, networking, storage, security (10 pages)
 - [systemd/overview](https://raw.githubusercontent.com/bianvigano/hermes-vault/main/wiki/systemd/overview.md) — Wiki Systemd: units, service files, timers, journalctl, boot (7 pages)
 - [ncdu/overview](https://raw.githubusercontent.com/bianvigano/hermes-vault/main/wiki/ncdu/overview.md) — Wiki Ncdu: overview, install, usage, commands, export/import, alternatives, rewrite, JSON/binary format, performance (10 pages)
+- [google-dorking/index](https://raw.githubusercontent.com/bianvigano/hermes-vault/main/wiki/google-dorking/index.md) — Wiki Google Dorking: overview, operator list, OSINT examples, engine comparison, deprecated operators, defense (7 pages)
 
 ### Pages (root)
 
