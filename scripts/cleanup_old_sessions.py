@@ -13,7 +13,7 @@ import sys
 from pathlib import Path
 
 SESSIONS_PATH = Path.home() / ".hermes" / "sessions"
-VAULT_PATH = Path.home() / ".hermes" / "vault"
+VAULT_PATH = Path.home() / "vault"
 MANIFEST_PATH = VAULT_PATH / ".manifest.json"
 
 

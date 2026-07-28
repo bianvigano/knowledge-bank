@@ -34,7 +34,7 @@ def sanitize_home_path(text):
 
 # ─── Config ───────────────────────────────────────────────────────────────────
 
-VAULT_PATH = Path.home() / ".hermes" / "vault"
+VAULT_PATH = Path.home() / "vault"
 SESSIONS_RAW_PATH = Path.home() / ".hermes" / "sessions"
 SESSIONS_OUT_PATH = VAULT_PATH / "sessions"
 MANIFEST_PATH = VAULT_PATH / ".manifest.json"

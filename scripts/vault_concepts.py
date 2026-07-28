@@ -19,7 +19,7 @@ from pathlib import Path
 
 # ─── Config ───────────────────────────────────────────────────────────────────
 
-VAULT_PATH = Path.home() / ".hermes" / "vault"
+VAULT_PATH = Path.home() / "vault"
 SESSIONS_PATH = VAULT_PATH / "sessions"
 CONCEPTS_PATH = VAULT_PATH / "concepts"
 MANIFEST_PATH = VAULT_PATH / ".manifest.json"
