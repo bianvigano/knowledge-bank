@@ -1,16 +1,14 @@
 # Senyawa Web X
 
-## Info Project
-- Path: `USER_HOME/Desktop/senyawa-web-X/`
-- Stack: Next.js + TypeScript + Tailwind + Prisma + PostgreSQL
-- Repo: `https://github.com/bianvigano/senyawa-web-X.git`
+Custom web application project.
 
-## Fitur Admin Projects
-- Drag & drop native HTML5
-- Card layout
-- Dua section: Home (max 7 slot) dan Semua Project
-- Field: `urutanHome` dan `urutanProject`
+Location: `~/Desktop/senyawa/`
 
-## Catatan Penting
-- JANGAN push ke GitHub tanpa perintah explicit
-- Error Prisma: `Failed to load external module @prisma/client-...` → perlu `prisma generate`
+## Stack
+- Web-based interface (browser)
+- Custom hook page loader
+- No Nexo dependency
+
+## Related
+- [[webdev/custom-web-apps]]
+- [[discord/bot-ai-chat]]
